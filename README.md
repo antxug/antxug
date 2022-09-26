@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antxug
+- 👋 Hi, I’m @antxug or Anthony 
 - 👀 I’m interested in Cybersercurity
 - 🌱 I’m currently learning to fix my sleep schedule  
 - 💞️ I’m looking to collaborate on Coding, Tech, Politics, Cybersercurity

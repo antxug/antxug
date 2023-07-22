@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @antxug or Anthony 
 - 👀 I’m interested in Cybersercurity
-- 🌱 I’m currently learning to fix my sleep schedule  
+- 🌱 I’m continuously learning   
 - 💞️ I’m looking to collaborate on Coding, Tech, Politics, Cybersercurity
-- 📫 How to reach me Twitter / @antxug
+- 📫 How to reach me Twitter --- @antxug
 
 <!---
 antxug/antxug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

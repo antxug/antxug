@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antxug or Anthony 
-- 👀 I’m interested in Cybersercurity
+- 👀 I’m interested in Cybesercurity
 - 🌱 I’m continuously learning   
 - 💞️ I’m looking to collaborate on Coding, Tech, Politics, Cybersercurity
 - 📫 How to reach me Twitter --- @antxug
